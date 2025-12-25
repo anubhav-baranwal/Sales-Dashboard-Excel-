@@ -108,5 +108,5 @@ Anubhav Baranwal
 Aspiring Data Analyst
 Skills: Excel | SQL | Power BI
 Interested in: Business Analytics & MIS Reporting
-
+Linkdin Profile Link - www.linkedin.com/in/anubhav-baranwal
 ⭐ If you find this project useful, feel free to star the repository!
